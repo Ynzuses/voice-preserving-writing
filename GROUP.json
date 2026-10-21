@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "id": "voice-preserving-writing",
+  "version": "1.0.0",
+  "skills": [
+    "voice-preserving-writing"
+  ],
+  "optional_groups": [
+    "office-authoring-suite",
+    "research-skills-suite"
+  ],
+  "required_member_dependencies": {},
+  "license": "Apache-2.0",
+  "owner": "Ynzuses"
+}

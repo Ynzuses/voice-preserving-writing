@@ -1,0 +1,6 @@
+interface:
+  display_name: "Voice Preserving Writing"
+  short_description: "Draft and revise clear prose grounded in user material"
+  default_prompt: "Use $voice-preserving-writing to draft or revise this text from my material and requirements, making the reasoning clear while preserving facts, voice evidence, scope, and word limit."
+policy:
+  allow_implicit_invocation: true
