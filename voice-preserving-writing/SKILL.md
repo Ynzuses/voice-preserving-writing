@@ -2,7 +2,7 @@
 name: voice-preserving-writing
 description: "Draft from user-supplied material or revise academic and professional prose while preserving the writer's reasoning and voice. Use for drafts, notes, approved sources, rubric-based short answers, feedback or explicit voice evidence. Do not use it to evade authorship checks or conceal generated text."
 metadata:
-  version: "1.0.0"
+  version: "1.0.1"
 ---
 
 # Voice-Preserving Writing

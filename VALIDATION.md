@@ -1,4 +1,4 @@
-# Verification scope for 1.0.0
+# Verification scope for 1.0.1
 
 The grouping preparation checks exact membership and unique ownership, stable metadata, official Skill frontmatter, UI invocation fields, Python syntax, local Markdown links, selected private-path/credential patterns and retained licenses. Maintainer checks bind each independently copied candidate, its SHA256SUMS and ZIP member bytes to the reviewed source inventory. Historical candidate files remain unchanged; derived selection indexes can point to the new candidate.
 
@@ -23,3 +23,7 @@ The receiver made no wording changes to the supplied 0.4.0 instructions and ran 
 ## Current source regression result
 
 This instruction-only group has no bundled executable regression suite. Official Skill quick validation passes for every member. Candidate copies are independently checked and exercised before release preparation is closed; these counts do not represent independent model behavior.
+
+## Documentation patch 1.0.1
+
+Version 1.0.1 changes the README, installation guide, release notes, changelog, stability note and version metadata so that installation and invocation are described for Claude Code as well as Codex. Member instructions apart from the version line, scripts, tests, templates and schemas are byte-identical to v1.0.0. The group's regressions and official Skill validation were re-run on the source and on an independent candidate copy for this patch. On the maintainer's Windows machine, Claude Code listed these members from its user-level skills directory; that shows discovery, not that every member's workflow was exercised under Claude Code.

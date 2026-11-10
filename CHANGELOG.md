@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 - 2026-11-11
+
+Documentation patch: installation and invocation guidance now covers Claude Code (`--agent claude-code`, invocation by name) alongside Codex, and fixed-tag links, the installer pin and asset names refer to v1.0.1. No member instruction, script, test, template or schema changes beyond the version metadata.
+
 ## 1.0.0 - 2026-10-20
 
 First stable Voice-Preserving Writing group; 1 declared members. See MIGRATION.md and RELEASE_NOTES.md.
